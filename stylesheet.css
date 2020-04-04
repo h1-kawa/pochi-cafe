@@ -90,7 +90,13 @@ footer{
   }
   .title-image{
     float: left;
-    width: 40Px;
+    width: 60Px;
+  }
+  .contents-title{
+    height: 20px;
+    color: #5f9ea0;
+    border-bottom: 2px solid #bc8f8f;
+    margin-bottom: 5px;
   }
   input,textarea{
     width:300px;
